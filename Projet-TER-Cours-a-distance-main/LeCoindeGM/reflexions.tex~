@@ -1,0 +1,17 @@
+
+\subsection{Le problème}
+
+L'idée c'est de faire un outil qui permettrait des faire un
+cours/TD/TP à distance.
+
+\subsection{Montée en compétences}
+Est ce qu'on est capable de transmettre :
+
+\begin{dinglist}{227}
+\item de la video/camera en peer to peer ?
+\item de la parole/micro synchronisée en peer to peer ?
+\item un tchat en peer to peer?
+\item une fenetre de dessin en peer to peer ?
+\end{dinglilst}
+
+Est ce qu'il y des "normes" réseau 
