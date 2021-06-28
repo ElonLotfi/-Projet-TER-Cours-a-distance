@@ -14,7 +14,7 @@
 
 ---
 
-Bonjour, <br /> ce projet a été réaliser dans le cadre de la discipline [TER](https://www.i3s.unice.fr/master-info/ter/TER-S2-liste-des-sujets-2021/#cours-%C3%A0-distance) 🚀 .
+Bonjour, <br /> ce projet a été réaliser dans le cadre de la discipline [TER](https://github.com/ElonLotfi/-Projet-TER-Cours-a-distance) 🚀 .
  Collaborateur du projet  🙍🏽‍♂️ [@Mohamed](https://github.com/Mohamed0002) , 🙍🏽‍♂️ [@Said](https://github.com/Elarays) et 🙍🏽‍♂️ [@Lotfi](https://github.com/ElonLotfi)  encadrant 👨🏽‍💼[@M.Menez](http://miageprohttps://www.i3s.unice.fr/~menez/jet2.unice.fr/Intranet_de_Michel_Buffa) 
   
   <img align="right" alt="GIF" 
